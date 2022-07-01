@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there, 👋
+
+I am a Software Developer, lifetime learner, tech-enthusiast who loves making life simpler through technology.
+
+I did my bachelors from Thapar University, India in year 2020 and since then i have worked for 2 major software companies : 1) Amdocs 2) Logichub
+
+
 
 ## ✉️ Find me on:
-
-
 
 
 <p align="center">
@@ -23,8 +27,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://play-lh.googleusercontent.com/RAA-PGAoUanS_aOu8qhDvQZ1d8jp_lhR_-zJrcvxpABgQtNQylCxNac_WvN-vVIz7Hw=w480-h960-rw" alt="C++" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://wallpapercave.com/wp/wp7250034.jpg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://play-lh.googleusercontent.com/RAA-PGAoUanS_aOu8qhDvQZ1d8jp_lhR_-zJrcvxpABgQtNQylCxNac_WvN-vVIz7Hw=w480-h960-rw" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://wallpapercave.com/wp/wp7250034.jpg" alt="Java" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <!-- # Blog posts -->
