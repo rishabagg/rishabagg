@@ -78,6 +78,28 @@ I did my bachelors from Thapar University, India in year 2020 and since then i h
   </a>
 </p>
 
+<h3 align="center">Version Control & CI/CD</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/bindian0509" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://gitlab.com/bindian0509" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="git"/>
+  </a>
+    <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="docker"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
+  </a>
+</p>
+
 <!-- # Blog posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -90,6 +112,24 @@ I did my bachelors from Thapar University, India in year 2020 and since then i h
 <a> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabagg&theme=tokyonight) </a>
 
 </p>
+
+
+<a href="https://github.com/rishabagg/rishabagg">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabagg&theme=gruvbox&hide_border=true)](https://github.com/rishabagg" alt="Rishab's GitHub Stats Graph"/>
+</a>
+<br><br>
+<a href="https://github.com/rishabagg/rishabagg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bindian0509&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Rishab%20V%27s%20Github%20Stats" alt="Rishab's GitHub Stats" />
+</a>
+<h3>Longest vs Current Streak </h3>
+<a href="https://github.com/rishabagg/rishabagg">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabagg&theme=gruvbox" alt="Rishab's GitHub Streak Stats"/>
+</a>
+<br><br>
+<a href="https://github.com/rishabagg/rishabagg">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rishabagg&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Rishab's GitHub Contributions Graph"/>
+</a>
+</div>
 
 
 <!--
