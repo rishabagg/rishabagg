@@ -31,6 +31,18 @@ I did my bachelors from Thapar University, India in year 2020 and since then i h
 ![](https://visitor-badge.laobi.icu/badge?page_id=rishabagg.CharalambosIoannou)
 [![Github](https://img.shields.io/github/followers/rishabagg?label=Follow&style=social)](https://github.com/rishabagg)
 
+<details>
+<summary>View my activity on GitHub</summary>
+<!-- 
+![Github stats](https://github-readme-stats.vercel.app/api?username=vanzasetia&show_icons=true&locale=en)
+
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=vanzasetia&)
+ -->
+
+
+
+
+
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -123,10 +135,12 @@ I did my bachelors from Thapar University, India in year 2020 and since then i h
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabagg&theme=gruvbox" alt="Rishab's GitHub Streak Stats"/>
 </a>
 <br><br>
-<a href="https://github.com/rishabagg/rishabagg">
+<!-- <a href="https://github.com/rishabagg/rishabagg">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rishabagg&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Rishab's GitHub Contributions Graph"/>
-</a>
+</a> -->
 </div>
+
+</details>
 
 
 
