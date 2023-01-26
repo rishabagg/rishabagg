@@ -31,15 +31,6 @@ I did my bachelors from Thapar University, India in year 2020 and since then i h
 ![](https://visitor-badge.laobi.icu/badge?page_id=rishabagg.CharalambosIoannou)
 [![Github](https://img.shields.io/github/followers/rishabagg?label=Follow&style=social)](https://github.com/rishabagg)
 
-<details>
-<summary>View my activity on GitHub</summary>
-<!-- 
-![Github stats](https://github-readme-stats.vercel.app/api?username=vanzasetia&show_icons=true&locale=en)
-
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=vanzasetia&)
- -->
-
-
 
 
 
@@ -140,7 +131,6 @@ I did my bachelors from Thapar University, India in year 2020 and since then i h
 </a> -->
 </div>
 
-</details>
 
 
 
