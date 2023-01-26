@@ -1,6 +1,15 @@
 ### Hi there, 👋
 
-I am a Software Developer, lifetime learner, tech-enthusiast who loves making life simpler through technology.
+Hey, I am currently pursuing my MS in CS from SUNY at Buffalo. I'm an experienced Programmer/Developer with a demonstrated history of working in the Information Technology industry. Worked with LogicHub’s Dev and Integration Team and formerly worked with Amdocs's Bell-Canada, Lumen-Centurylink, T-Mobile team which helps in generating Pdfs and digital bills for their client's customer. Technologies i have worked on is Spring Integration, Javascript, ReactJs, CSS ,Java, C++, Git etc.
+
+TECHNICAL SKILLS:
+• Programming Languages: C, C++, Python, HTML5, CSS, Javascript, Java, PL/SQL, MySQL, Typescript, Velocity, XML
+• Operating Systems: Linux, Windows, macOS.
+• Open Source Libraries: Docker.
+• Parallel Libraries: Apache Spark.
+• Additional Concepts: Jenkins, Git, JIRA, AWS
+
+I am a lifetime learner, tech-enthusiast who loves making life simpler through technology.
 
 I did my bachelors from Thapar University, India in year 2020 and since then i have worked for 2 major software companies : 1) Amdocs 2) Logichub
 
