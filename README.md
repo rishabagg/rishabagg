@@ -118,9 +118,6 @@ I did my bachelors from Thapar University, India in year 2020 and since then i h
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabagg&theme=gruvbox&hide_border=true)](https://github.com/rishabagg" alt="Rishab's GitHub Stats Graph"/>
 </a>
 <br><br>
-<a href="https://github.com/rishabagg/rishabagg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bindian0509&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Rishab%20V%27s%20Github%20Stats" alt="Rishab's GitHub Stats" />
-</a>
 <h3>Longest vs Current Streak </h3>
 <a href="https://github.com/rishabagg/rishabagg">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabagg&theme=gruvbox" alt="Rishab's GitHub Streak Stats"/>
@@ -131,6 +128,23 @@ I did my bachelors from Thapar University, India in year 2020 and since then i h
 </a>
 </div>
 
+
+
+## Let's Work on Your Project Together!
+
+If you have any questions about front-end web development, feel free to <a href="mailto:rishabagg070@gmail.com">contact me through email</a> me.
+
+You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/rishabagg07/">LinkedIn</a> to deploy your machine learning project on web.
+
+  </td>
+  <td width="50%" valign="top">
+
+## It's not perfect, isn't it?
+
+**<a href="https://github.com/rishabagg"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+
+“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+– Elon Musk
 
 <!--
 **rishabagg/rishabagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
