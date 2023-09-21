@@ -16,12 +16,11 @@ Driven by curiosity, I am a lifetime learner and a tech-enthusiast. I'm always o
 
 
 ## ✉️ Find me on:
-
 <p align="center">
- <a href="https://www.linkedin.com/in/rishabagg07/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.instagram.com/rishab070/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:aggarwalrishab07@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://twitter.com/aggarwalrishab7"> <img src="https://www.en.etemaaddaily.com/pages/world/general/3626twitter.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/rishabagg07/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.instagram.com/rishab070/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:aggarwalrishab07@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://twitter.com/aggarwalrishab7"> <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
