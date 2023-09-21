@@ -1,6 +1,8 @@
 ### Hi there, 👋
 
-Hey, I am currently pursuing my MS in CS from SUNY at Buffalo. I'm an experienced Programmer/Developer with a demonstrated history of working in the Information Technology industry. Worked with LogicHub’s Dev and Integration Team and formerly worked with Amdocs's Bell-Canada, Lumen-Centurylink, T-Mobile team which helps in generating Pdfs and digital bills for their client's customer. Technologies i have worked on is Spring Integration, Javascript, ReactJs, CSS ,Java, C++, Git etc.
+Hey, 
+
+I am currently pursuing my MS in CS from SUNY at Buffalo. With a deep passion for technology, I've built a strong foundation in software development through both academic projects and professional experiences. My recent stint as an intern at Amazon allowed me to delve deep into high-impact projects, further honing my skills as a full-stack engineer. Prior to that, I collaborated with LogicHub’s Dev and Integration Team and was an integral part of Amdocs's teams for Bell-Canada, Lumen-Centurylink, and T-Mobile. In these roles, I played a pivotal part in generating Pdfs and digital bills for clients. My technical prowess spans across a range of tools and languages including Spring Integration, Javascript, ReactJs, CSS, Java, C++, and Git, among others.
 
 TECHNICAL SKILLS:
 • Programming Languages: C, C++, Python, HTML5, CSS, Javascript, Java, PL/SQL, MySQL, Typescript, Velocity, XML
@@ -9,9 +11,7 @@ TECHNICAL SKILLS:
 • Parallel Libraries: Apache Spark.
 • Additional Concepts: Jenkins, Git, JIRA, AWS
 
-I am a lifetime learner, tech-enthusiast who loves making life simpler through technology.
-
-I did my bachelors from Thapar University, India in year 2020 and since then i have worked for 2 major software companies : 1) Amdocs 2) Logichub
+Driven by curiosity, I am a lifetime learner and a tech-enthusiast. I'm always on the lookout for opportunities to use technology to simplify life and create impactful solutions. My foundational years in the tech world began with a bachelor's degree from Thapar University, India, in 2020. Since then, I've had the privilege to work with two major software firms: 1) Amdocs 2) LogicHub, and most recently, Amazon.
 
 
 
