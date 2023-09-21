@@ -35,50 +35,29 @@ Driven by curiosity, I am a lifetime learner and a tech-enthusiast. I'm always o
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://play-lh.googleusercontent.com/RAA-PGAoUanS_aOu8qhDvQZ1d8jp_lhR_-zJrcvxpABgQtNQylCxNac_WvN-vVIz7Hw=w480-h960-rw" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://wallpapercave.com/wp/wp7250034.jpg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-<a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
-  <a href="https://hibernate.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
-    </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="graphql" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  </a>
-    <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="kubernetes"/>
-  </a>
+<!-- Existing badges -->
+<a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> 
+</a>
 </p>
+
 <h3 align="center">Database</h3>
 <p align="center">
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
-  <a href="https://www.mysql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="mysql"/> 
-  </a>
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
-  </a>
-  <a href="https://cassandra.apache.org/_/index.html" target="_blank"> 
-    <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white"
-      alt="cassandra"/> 
-  </a>
+<!-- Existing badges -->
+<a href="https://aws.amazon.com/dynamodb/" target="_blank"> 
+    <img src="https://img.shields.io/badge/DynamoDB-%2300521E.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB"/> 
+</a>
 </p>
+
 
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
