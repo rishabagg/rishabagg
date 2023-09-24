@@ -62,10 +62,6 @@ Driven by curiosity, I am a lifetime learner and a tech-enthusiast. I'm always o
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
 
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
   <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
   </a>
